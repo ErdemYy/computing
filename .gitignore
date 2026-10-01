@@ -1,0 +1,9 @@
+
+*.tsbuildinfo
+.next
+assets-source
+next-env.d.ts
+node_modules
+opt
+out
+shots
